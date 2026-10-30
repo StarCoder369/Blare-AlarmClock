@@ -27,6 +27,10 @@ Screenshots of the case
 
 <img width="722" height="508" alt="CAD3" src="https://github.com/user-attachments/assets/75374c63-ecdc-4ebb-878d-8a8854486899" />
 
+<br><br>
+
+The top part of the case will screw onto the bottom part of the case using the heat-set inserts.
+
 </details>
 
 <details>
